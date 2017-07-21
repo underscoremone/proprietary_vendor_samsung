@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltespr/proprietary/vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd:system/vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd \
     vendor/samsung/trltespr/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd:system/vendor/firmware/bcm4358A1_V0054.0095.hcd \
     vendor/samsung/trltespr/proprietary/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd \
-    vendor/samsung/trltespr/proprietary/vendor/firmware/sec_s3fwrn5_firmware:system/vendor/firmware/sec_s3fwrn5_firmware \
+    vendor/samsung/trltespr/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin:system/vendor/firmware/sec_s3fwrn5_firmware.bin \
     vendor/samsung/trltespr/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so \
