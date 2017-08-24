@@ -29,7 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltevzw/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/samsung/trltevzw/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
     vendor/samsung/trltevzw/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
-    vendor/samsung/trltevzw/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/trltevzw/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/samsung/trltevzw/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/samsung/trltevzw/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
