@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltevzw/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
     vendor/samsung/trltevzw/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
     vendor/samsung/trltevzw/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
-    vendor/samsung/trltevzw/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/samsung/trltevzw/proprietary/lib/libbt-iopdb.so:system/lib/libbt-iopdb.so \
     vendor/samsung/trltevzw/proprietary/lib/libbt-iopdb_mod.so:system/lib/libbt-iopdb_mod.so \
     vendor/samsung/trltevzw/proprietary/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
