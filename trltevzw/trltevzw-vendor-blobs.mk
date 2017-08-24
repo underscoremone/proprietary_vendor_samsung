@@ -54,7 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltevzw/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/trltevzw/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/trltevzw/proprietary/bin/rmnetcli:system/bin/rmnetcli \
-    vendor/samsung/trltevzw/proprietary/lib/libcfiril.so:system/lib/libcfiril.so \
     vendor/samsung/trltevzw/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/trltevzw/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/trltevzw/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
