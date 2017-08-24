@@ -60,9 +60,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltevzw/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/trltevzw/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/trltevzw/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
-    vendor/samsung/trltevzw/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
+    vendor/samsung/trltevzw/proprietary/lib/libsecril-client-sap.so:system/lib/libsecril-client-sap.so \
     vendor/samsung/trltevzw/proprietary/lib/librilswitch.so:system/lib/librilswitch.so \
-    vendor/samsung/trltevzw/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/trltevzw/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/trltevzw/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/samsung/trltevzw/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
