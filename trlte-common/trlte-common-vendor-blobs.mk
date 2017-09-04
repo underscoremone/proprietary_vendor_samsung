@@ -280,7 +280,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/etc/H16UL_s5k2p2xx_module_info.xml:system/etc/H16UL_s5k2p2xx_module_info.xml \
     vendor/samsung/trlte-common/proprietary/etc/H16US_imx240_module_info.xml:system/etc/H16US_imx240_module_info.xml \
     vendor/samsung/trlte-common/proprietary/lib/hw/audio.tms.default.so:system/lib/hw/audio.tms.default.so \
-    vendor/samsung/trlte-common/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/samsung/trlte-common/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/samsung/trlte-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
