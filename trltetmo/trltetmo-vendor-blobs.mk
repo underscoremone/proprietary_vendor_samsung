@@ -63,7 +63,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltetmo/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/trltetmo/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/trltetmo/proprietary/bin/rmnetcli:system/bin/rmnetcli \
-    vendor/samsung/trltetmo/proprietary/lib/libcfiril.so:system/lib/libcfiril.so \
     vendor/samsung/trltetmo/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/trltetmo/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/trltetmo/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
@@ -71,5 +70,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltetmo/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/trltetmo/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/trltetmo/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    vendor/samsung/trltetmo/proprietary/lib/librilswitch.so:system/lib/librilswitch.so \
     vendor/samsung/trltetmo/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so
