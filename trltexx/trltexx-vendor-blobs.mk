@@ -53,7 +53,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltexx/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libdataitems.so:system/vendor/lib/libdataitems.so \
-    vendor/samsung/trltexx/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \    
+    vendor/samsung/trltexx/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
+    
     vendor/samsung/trltexx/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
